@@ -1,3 +1,9 @@
-# Binary text classification
+# Text classification
 
-This repository is devoted to the analysis of various methods of binary classification of different texts.
+## BinaryTextClassification
+
+This notebook is devoted to the analysis of various ML methods of binary classification of different texts.
+
+## LLMCompare
+
+This notebook is devoted to the analysis different LLM models in text classification.
