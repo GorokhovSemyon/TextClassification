@@ -9,3 +9,5 @@ This notebook is devoted to the analysis of various ML methods of binary classif
 This notebook is devoted to the analysis different pretrained LLM models in text classification into 3 class (positive, negative and neutral).
 
 ## LLM Evaluation
+
+This notebook is devoted to the analysis BERT and DistilBERT models.
