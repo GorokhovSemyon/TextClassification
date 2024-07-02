@@ -1,6 +1,6 @@
 # Text classifications
 
-## BinaryTextClassification
+## Binary Text Classification
 
 This notebook is devoted to the analysis of various ML methods of binary classification of different texts (negative and positive).
 
