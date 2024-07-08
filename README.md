@@ -13,3 +13,5 @@ This notebook is devoted to the analysis different pretrained LLM models in text
 This notebook is devoted to the analysis BERT and DistilBERT models in binary text classification with advanced Cohen's Cappa and ROC AUC metrics.
 
 ## Advance text classification
+
+This notebook is devoted to the deep analysis of different hyperparameters.
