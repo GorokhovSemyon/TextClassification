@@ -14,4 +14,4 @@ This notebook is devoted to the analysis BERT and DistilBERT models in binary te
 
 ## Advance text classification
 
-This notebook is devoted to the deep analysis of different hyperparameters.
+This notebook is devoted to the deep analysis of different hyperparameters, to show dependencies.
