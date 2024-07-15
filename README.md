@@ -18,4 +18,4 @@ This notebook is devoted to the deep analysis of different hyperparameters, to f
 
 ## QASystem_Ru
 
-This notebook is devoted to creating simple question-answer system.
+This notebook is devoted to creating simple RAG question-answer system.
