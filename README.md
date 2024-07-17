@@ -10,7 +10,7 @@ This notebook is devoted to the analysis different pretrained LLM models in text
 
 ## LLM Evaluation
 
-This notebook is devoted to the analysis BERT and DistilBERT models in binary text classification with advanced Cohen's Cappa and ROC AUC metrics.
+This notebook is devoted to the analysis [BERT](https://habr.com/ru/articles/436878/) and DistilBERT models in binary text classification with advanced Cohen's Cappa and ROC AUC metrics.
 
 ## Advance text classification
 
