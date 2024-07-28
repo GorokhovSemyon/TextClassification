@@ -19,3 +19,6 @@ This notebook is devoted to the deep analysis of different hyperparameters, to f
 ## QASystem_Ru
 
 This notebook is devoted to creating simple [RAG](https://habr.com/ru/articles/779526/) question-answer system.
+
+## VisualLLMEvaluation
+
