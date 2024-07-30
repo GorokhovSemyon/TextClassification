@@ -22,4 +22,4 @@ This notebook is devoted to creating simple [RAG](https://habr.com/ru/articles/7
 
 ## VisualLLMEvaluation
 
-This notebook
+This notebook is devoted to 
