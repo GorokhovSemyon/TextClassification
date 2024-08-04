@@ -22,4 +22,4 @@ This notebook is devoted to creating simple [RAG](https://habr.com/ru/articles/7
 
 ## VisualLLMEvaluation
 
-This notebook is devoted to visualization of LLM eval with [ClearML](https://clear.ml/) and Wandb
+This notebook is devoted to visualization of LLM eval with [ClearML](https://clear.ml/) and [Wandb](https://wandb.ai/site)
