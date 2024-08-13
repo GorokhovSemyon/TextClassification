@@ -25,3 +25,5 @@ This notebook is devoted to creating simple [RAG](https://habr.com/ru/articles/7
 This notebook shows, how to visualize LLM evaluation with [ClearML](https://clear.ml/) and [Wandb](https://wandb.ai/site).
 
 ## PEFT
+
+This notebook is devoted
