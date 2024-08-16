@@ -26,4 +26,4 @@ This notebook shows, how to visualize LLM evaluation with [ClearML](https://clea
 
 ## PEFT
 
-This notebook is devoted to LoRA train process.
+This notebook is devoted to LoRA train process with PEFT.
