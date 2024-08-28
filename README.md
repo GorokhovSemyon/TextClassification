@@ -28,4 +28,4 @@ This notebook shows, how to visualize LLM evaluation with [ClearML](https://clea
 
 This notebook is devoted to [LoRA](https://huggingface.co/docs/diffusers/training/lora) train process with [PEFT](https://huggingface.co/docs/peft/index).
 
-## Llama
+## Llama3 finetuning
