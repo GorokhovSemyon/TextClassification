@@ -1,4 +1,4 @@
-# Text classifications
+# Text classification
 
 ## Binary Text Classification
 
