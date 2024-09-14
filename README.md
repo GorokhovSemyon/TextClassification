@@ -30,4 +30,4 @@ This notebook is devoted to [LoRA](https://huggingface.co/docs/diffusers/trainin
 
 ## Llama3 finetuning
 
-This notebook is connected to finetuning [Llama3](https://huggingface.co/docs/transformers/model_doc/llama3) whith knowledge graph.
+This notebook is connected to finetuning [Llama3](https://huggingface.co/docs/transformers/model_doc/llama3) whith knowledge graph (using ChromaDB).
