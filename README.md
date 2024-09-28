@@ -29,7 +29,7 @@ This notebook shows, how to visualize LLM evaluation with [ClearML](https://clea
 This notebook is devoted to [LoRA](https://huggingface.co/docs/diffusers/training/lora) train process with [PEFT](https://huggingface.co/docs/peft/index).
 
 ## RAG
-This notebook is devoted to creating russian RAG system.
+This notebook is devoted to creating RAG system on russian language.
 
 ## Llama3 finetuning
 
