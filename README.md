@@ -36,3 +36,5 @@ This notebook is devoted to creating russian RAG system.
 This notebook is connected to finetuning [Llama3](https://huggingface.co/docs/transformers/model_doc/llama3) whith knowledge graphs, using ChromaDB.
 
 ## Building evals
+
+This notebook
