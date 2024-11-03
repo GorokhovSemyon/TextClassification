@@ -14,7 +14,7 @@ This notebook is devoted to the analysis [BERT](https://habr.com/ru/articles/436
 
 ## Advance text classification
 
-This notebook is devoted to the deep analysis of different hyperparameters, to find correlations between them and quality.
+This notebook is connected to the deep analysis of different hyperparameters, to find correlations between them and quality.
 
 ## QASystem_Ru
 
