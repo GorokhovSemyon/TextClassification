@@ -37,4 +37,4 @@ This notebook is connected to finetuning [Llama3](https://huggingface.co/docs/tr
 
 ## Building evals
 
-This notebook is devoted to LLM eval.
+This notebook is devoted to LLM evaluation.
