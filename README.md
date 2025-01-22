@@ -22,7 +22,7 @@ This jupyter notebook is devoted to creating simple rusian [RAG](https://habr.co
 
 ## VisualLLMEvaluation
 
-This notebook shows, how to visualize LLM evaluation with [ClearML](https://clear.ml/) and [Wandb](https://wandb.ai/site).
+This notebook shows, how to visualize LLM's evaluation with [ClearML](https://clear.ml/) and [Wandb](https://wandb.ai/site).
 
 ## PEFT
 
