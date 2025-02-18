@@ -10,7 +10,7 @@ This notebook devoted to analysis of different LLM models in text classification
 
 ## LLM Evaluation
 
-This notebook connected to the analysis [BERT](https://habr.com/ru/articles/436878/) and [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) models in binary text classification with advanced [Cohen's Cappa](https://en.wikipedia.org/wiki/Cohen%27s_kappa) and [ROC AUC](https://habr.com/ru/companies/otus/articles/809147/) metrics.
+This jupyter notebook connected to the analysis [BERT](https://habr.com/ru/articles/436878/) and [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) models in binary text classification with advanced [Cohen's Cappa](https://en.wikipedia.org/wiki/Cohen%27s_kappa) and [ROC AUC](https://habr.com/ru/companies/otus/articles/809147/) metrics.
 
 ## Advance text classification
 
