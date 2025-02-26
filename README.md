@@ -18,7 +18,7 @@ This notebook shows the deep analysis of different hyperparameters, to find corr
 
 ## QASystem_Ru
 
-This jupyter notebook is devoted to creating simple rusian [RAG](https://habr.com/ru/articles/779526/) QA system.
+This jupyter notebook is devoted to creating simple rusian [RAG](https://habr.com/ru/articles/779526/) QA-system.
 
 ## VisualLLMEvaluation
 
