@@ -14,7 +14,7 @@ This jupyter notebook connected to the analysis [BERT](https://habr.com/ru/artic
 
 ## Advance text classification
 
-This notebook shows the deep analysis of different hyperparameters, to find correlations between them and quality.
+This notebook devoted to the deep analysis of different hyperparameters, to find correlations between them and quality.
 
 ## QASystem_Ru
 
