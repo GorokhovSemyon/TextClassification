@@ -29,7 +29,7 @@ This notebook shows, how to visualize LLM's evaluation with [ClearML](https://cl
 This notebook is connected to [LoRA](https://huggingface.co/docs/diffusers/training/lora) train process with [PEFT](https://huggingface.co/docs/peft/index).
 
 ## RAG
-This notebook is connected to creating russian RAG system.
+This notebook is devoted to creating russian RAG system.
 
 ## Llama3 finetuning
 
