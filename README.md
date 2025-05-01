@@ -6,7 +6,7 @@ This notebook is devoted to the analysis of various ML/NLP methods of binary cla
 
 ## LLM Compare
 
-This notebook devoted to analysis of different LLM models in text classification into n class (positive, negative and neutral).
+This notebook is devoted to analysis of different LLM models in text classification into n class (positive, negative and neutral).
 
 ## LLM Evaluation
 
